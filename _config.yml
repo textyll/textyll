@@ -1,5 +1,6 @@
 markdown: kramdown
 safe: false
+exclude: ["node_modules", "test"]
 
 permalink: /:categories/:title
 relative_permalinks: false
